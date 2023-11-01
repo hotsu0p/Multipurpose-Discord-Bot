@@ -90,6 +90,7 @@ If you find any errors please create a issue from <a href="https://github.com/Be
      }
      ```
 
+ * Free lavalinks [Here](https://lavalink.darrennathanael.com/)
 </details>
 
 ## 🤖 Configuration and Starting
